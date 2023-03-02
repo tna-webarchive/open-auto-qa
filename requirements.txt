@@ -1,0 +1,12 @@
+tqdm
+ratelimit
+boto3
+futures3
+multiprocess
+requests
+pandas
+regex
+arrow
+PyPDF2
+multiprocessing-logging
+git+https://github.com/tna-webarchive/ukgwa-tools@main
