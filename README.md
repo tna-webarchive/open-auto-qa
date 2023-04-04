@@ -64,10 +64,10 @@ aqa_bot_account_ID = 'enter account id'
 ### S3 ###
 S3ACCESS_KEY = <S3 Access Key>   #You can generate this from the AWS console
 S3SECRET_KEY = <S3 Access Key>   #You can generate this from the AWS console
-data_bucket = 'tna-mw-ukgwa-data'
+data_bucket = <S3 Bucket>
 
 ### NOTD ###
-NOTDuser = 'tnaukgwa'
+NOTDuser = '<NOTD username>'
 NOTDpassword = <NOTD password>
 ```
 All variables within <> should be changed. (dropping the < and > characters)
